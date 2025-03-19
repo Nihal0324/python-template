@@ -30,6 +30,6 @@ logs/*
 
 .devcontainer/commandhistory
 !.devcontainer/commandhistory/.gitkeep
-.env
+#.env
 # Just for those who use nushell
 .env.nu
